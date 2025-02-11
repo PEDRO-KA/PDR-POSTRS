@@ -1,0 +1,42 @@
+footer{
+    padding: 100px 0%;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+    width: 100%;
+}
+
+.logo-footer img{
+    height: 80px;
+    width: 200px;
+}
+
+.flex-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 76px;
+}
+
+.teste-redes{
+    font-size: 30px;
+    background-color: #0099ff;
+    border-radius: 999px;
+    padding: 10px 17px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.hr{
+    border: solid #0099ff 1px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.contato-footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer > p{
+    text-align: center;
+    margin-top: 100px;
+}
